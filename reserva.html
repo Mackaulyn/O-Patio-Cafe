@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O Pátio Café - Seu refúgio diário</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <a href="index.html"><img src="img/logo.png" alt="Logo" href="index.html"></a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="sobre.html">Quem somos?</a></li>
+                    <li><a href="cardapio.html">Cardápio</a></li>
+                    <li><a href="reserva.html">Reservar minha mesa</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="booking-section" id="reserva">
+        <h1>Reservar minha mesa</h1>
+        <p>Garanta sua mesa em nosso pátio. É rápido e fácil</p>
+        <form class="reservation-form" action="obrigado.html" method="get">
+            <div class="form-group">
+                <label for="nome_usuario">Seu nome:</label>
+                <input type="text" id="nome_usuario" required>
+            </div>
+
+            <div class="form-group">
+                <label for="email_usuario">Seu email:</label>
+                <input type="email" id="email-usuario" required>
+            </div>
+
+            <div class="form-group">
+                <label for="telefone_usuario">Seu telefone:</label>
+                <input type="tel" id="telefone_usuario" required>
+            </div>
+
+            <div class="form-group">
+                <label for="data_reserva">Data da sua reserva:</label>
+                <input type="date" id="data_reserva" required>
+            </div>
+
+            <div class="form-group">
+                <label for="horario_reserva">Horário da sua reserva</label>
+                <input type="time" id="horario_reserva" required>
+            </div>
+
+            <div class="form-group">
+                <label for="quantidade_pessoas">Mesa para quantas pessoas?</label>
+                <input type="number" id="quantidade_pessoas" min="1" max="10" value="2" required>
+            </div>
+
+            <button type="submit" class="cta-button">Reservar minha mesa</button>
+        </form>
+    </main>
+    
+    <footer>
+        <div class="footer-content">
+            <div class="footer-column">
+                <h3>Endereços</h3>
+                <p>Rua das Flores, 123 - Centro</p>
+                <p>Tel: (19) 98607-4312</p>
+            </div>
+
+            <div class="footer-column">
+                <h3>Horários</h3>
+                <p>Terça a Sábado: 9h às 19h</p>
+                <p>Domingos e Feriados: 9h às 17h</p>
+            </div>
+
+            <div class="footer-column">
+                <h3>Redes Sociais</h3>
+                <ul>
+                    <li> <a href="https://instagram.com" target="_blank">Instagram</a></li>
+                    <li> <a href="https://facebook.com" target="_blank">Facebook</a></li>
+                </ul>
+            </div>
+        </div>
+        <p class="copyright-text">&copy; 2025 O Pátio Café. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
