@@ -20,20 +20,81 @@
                     <li><a href="reserva.html">Reservar minha mesa</a></li>
                 </ul>
             </nav>
+
+            <button class="menu-toggle" aria-label="Abrir Menu">
+                &#9776;
+            </button>
         </div>
     </header>
 
     <main>
         <section class="home-section">
             <div class="home-text">
-                <h1>Seu refúgio Diário</h1>
+                <h1>Seu Refúgio Diário</h1>
                 <p>Bem-vindo ao O Pátio Café, seu novo espaço para relaxar, trabalhar ou simplesmente aproveitar um brunch o dia todo.</p>
 
                 <a href="reserva.html" class="cta-button">Reservar minha mesa</a>
             </div>
             <img src="img/patio-cafe.jpg" alt="O Patio Café" class="home-image">
         </section>
-        
+
+        <section class="featured-products">
+            <h2>Produtos em Destaque</h2>
+            <p>Alguns dos nossos favoritos, mais pedidos pela casa.</p>
+
+            <div class="menu-grid">
+                <div class="menu-item">
+                    <img src="cardapio/capuccino-cremoso.jpg" alt="Capuccino Cremoso">
+                    <div class="menu-item-content">
+                        <h3>Cappuccino Cremoso</h3>
+                        <p>O clássico perfeito. Espresso, leite vaporizado e uma espuma de leite densa e aveludada.</p>
+                        <span class="price">R$ 14,00</span>    
+                    </div>
+                </div>
+
+                <div class="menu-item">
+                    <img src="cardapio/latte-caramelo-salgado.jpg" alt="Latte Caramelo Salgado">
+                    <div class="menu-item-content">
+                        <h3>Latte Caramelo Salgado</h3>
+                        <p>Leite vaporizado, espresso e um toque de caramelo salgado artesanal.</p>
+                        <span class="price">R$ 16,00</span>    
+                    </div>
+                </div>
+
+                <div class="menu-item">
+                    <img src="cardapio/brownie-do-patio.png">
+                    <div class="menu-item-content">
+                        <h3>Brownie do Pátio</h3>
+                        <p>Brownie de chocolate 70% cacau, levemente úmido, servido com uma bola de sorvete de baunilha.</p>
+                        <span class="price">R$ 22,00</span>    
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="testimonials-section">
+            <h2>O que nossos clientes dizem</h2>
+
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <div class="stars">★★★★★</div>
+                    <p>"As Panquecas do Pátio são as mais fofas que já comi. As frutas vermelhas e o mel orgânico por cima são o toque perfeito. Ideal para um brunch!"</p>
+                    <span class="author">- Julia M.</span>
+                </div>
+
+                <div class="testimonial-card">
+                    <div class="stars">★★★★★</div>
+                    <p>"Ambiente perfeito para trabalhar e tomar um café de qualidade. O Croissant de Amêndoas é divino."</p>
+                    <span class="author">- Rafael S.</span>
+                </div>
+
+                <div class="testimonial-card">
+                    <div class="stars">★★★★★</div>
+                    <p>"Eu estava cético sobre o 'Avocado Coffee', mas é surpreendente! O toque de abacate e mel é sutil e delicioso. Virou minha bebida assinatura."</p>
+                    <span class="author">- Carlos D.</span>
+                </div>
+            </div>
+        </section>
     </main>
 
     <footer>
@@ -60,5 +121,7 @@
         </div>
         <p class="copyright-text">&copy; 2025 O Pátio Café. Todos os direitos reservados.</p>
     </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>
