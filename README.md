@@ -32,5 +32,15 @@ Com base nos arquivos desenvolvidos, o sistema possui:
 
 ## 🚀 Como Executar
 1. Clone este repositório:
+   
    ```bash
    git clone [https://github.com/seu-usuario/o-patio-cafe.git](https://github.com/seu-usuario/o-patio-cafe.git)
+
+2. Entre na pasta do projeto:
+   
+   ```bash
+   cd o-patio-cafe
+
+3. Abra o arquivo `index.html` no seu navegador de preferência.
+
+4. Desenvolvido por Mackaulyn Rocha - Estudante de Informática.
