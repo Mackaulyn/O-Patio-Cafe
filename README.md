@@ -2,7 +2,7 @@
 
 O **Pátio Café** é uma landing page moderna e responsiva desenvolvida para um café fictício. O foco do projeto foi criar um ambiente visual calmo e minimalista, utilizando técnicas avançadas de estruturação web.
 
-🔗 **Acesse o projeto:** [Clique aqui para visualizar](https://seu-usuario.github.io/o-patio-cafe/)
+🔗 **Acesse o projeto:** [Clique aqui para visualizar](https://mackaulyn.github.io/O-Patio-Cafe/)
 
 ---
 
