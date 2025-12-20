@@ -43,4 +43,6 @@ Com base nos arquivos desenvolvidos, o sistema possui:
 
 3. Abra o arquivo `index.html` no seu navegador de preferência.
 
+---
+
 Desenvolvido por Mackaulyn Rocha - Estudante de Informática.
