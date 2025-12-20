@@ -1,16 +1,36 @@
-# O-Patio-Cafe
+# ☕ O Pátio Café - Seu Refúgio Diário
 
-O Pátio Café - Seu refúgio diário
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-# Sobre
+O **Pátio Café** é uma landing page moderna e responsiva desenvolvida para um café fictício. O foco do projeto foi criar um ambiente visual calmo e minimalista, utilizando técnicas avançadas de estruturação web.
 
-Um site para reservar uma mesa em um café fictício. O café tem um ambiente calmo, minimalista e ao ar livre, cercado por plantas suspensas e mesas de madeira.
+## 📌 Sobre o Projeto
+Este site foi criado para praticar conceitos fundamentais de desenvolvimento web, como:
+* Estruturação semântica com HTML5.
+* Estilização avançada com CSS3 (Variáveis e Flexbox).
+* Interatividade com JavaScript para menus mobile.
+* Design focado na experiência do usuário (UX) em landing pages.
 
-# Inspiração
+## ✨ Funcionalidades do Código
+Com base nos arquivos desenvolvidos, o sistema possui:
+* **Navegação Dinâmica:** Menu hambúrguer interativo (`script.js`) para telas menores.
+* **Cardápio Visual:** Organizado em Grid (`cardapio.html`), facilitando a visualização de produtos como o *Avocado Coffee*.
+* **Formulário de Reserva:** Validação de campos para agendamento de mesas (`reserva.html`).
+* **Página de Sucesso:** Fluxo completo de usuário com confirmação de envio (`obrigado.html`).
+* **Design Responsivo:** Adaptado para celulares e desktops através de Media Queries no `style.css`.
 
-O site foi criado a fim de praticar conceitos como cabeçalho, rodapé e formulários além de melhorar a estruturação e divisão do código. Além disso, o site foi utilizado como meio para entender mais sobre landing pages.
+## 📂 Estrutura de Arquivos
+* `index.html`: Página principal com destaques e depoimentos.
+* `cardapio.html`: Listagem de produtos e preços.
+* `reserva.html`: Formulário de agendamento.
+* `sobre.html`: História e filosofia da marca.
+* `style.css`: Estilização global e paleta de cores (Verde Sálvia, Café Escuro, Rosa Chá).
+* `script.js`: Lógica do menu responsivo.
 
-# Tecnologias Utilizadas:
-
-- HTML5
-- CSS Externo
+## 🚀 Como Executar
+1. Clone este repositório:
+   ```bash
+   git clone [https://github.com/seu-usuario/o-patio-cafe.git](https://github.com/seu-usuario/o-patio-cafe.git)
