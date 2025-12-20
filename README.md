@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://mackaulyn.github.io/O-Patio-Cafe/">
+    <img src="./img/github-header-banner.png" alt="Banner O Pátio Café" width="100%">
+  </a>
+</p>
+
 # ☕ O Pátio Café - Seu Refúgio Diário
 
 O **Pátio Café** é uma landing page moderna e responsiva desenvolvida para um café fictício. O foco do projeto foi criar um ambiente visual calmo e minimalista, utilizando técnicas avançadas de estruturação web.
