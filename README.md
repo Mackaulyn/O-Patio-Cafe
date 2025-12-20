@@ -2,6 +2,8 @@
 
 O **Pátio Café** é uma landing page moderna e responsiva desenvolvida para um café fictício. O foco do projeto foi criar um ambiente visual calmo e minimalista, utilizando técnicas avançadas de estruturação web.
 
+🔗 **Acesse o projeto:** [Clique aqui para visualizar](https://seu-usuario.github.io/o-patio-cafe/)
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -42,7 +44,7 @@ Com base nos arquivos desenvolvidos, o sistema possui:
 1. Clone este repositório:
    
    ```bash
-   git clone [https://github.com/seu-usuario/o-patio-cafe.git](https://github.com/seu-usuario/o-patio-cafe.git)
+   git clone https://github.com/seu-usuario/o-patio-cafe.git
 
 2. Entre na pasta do projeto:
    
