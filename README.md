@@ -65,5 +65,3 @@ Com base nos arquivos desenvolvidos, o sistema possui:
 Este projeto foi desenvolvido por:
 
 * Mackaulyn Rocha - [GitHub](https://github.com/Mackaulyn)
-
-* Matheus Santos Gomes - [GitHub](https://github.com/MatheusGomes100)
